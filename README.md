@@ -1,4 +1,4 @@
-# Sales_inshights
+# Sales_insights
 THE SQL QUERIES FOLLOWED HERE ARE:
 Show all customer records
 
